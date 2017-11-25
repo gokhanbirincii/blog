@@ -1,0 +1,38 @@
+languageCode = "en-us"
+title = "Gokhan Birinci - Software Engineering Student"
+baseurl = "/"
+theme = "aerial"
+publishdir="public"
+
+[params]
+  name = "Gökhan Birinci"
+  about = "Software Engineering Student &nbsp;&bull;&nbsp; Software Developer @KodGemisi"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/GokhanBirincii"
+
+[[params.social]]
+  medium = "Medium"
+  icon = "medium"
+  link = "https://medium.com/@gokhanbirincii"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/gokhanbirinci/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/gokhanbirincii"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:gokhanbirincii@gmail.com"
