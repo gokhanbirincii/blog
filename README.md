@@ -1,1 +1,1 @@
-# Hugo ile duzenledigin static web sitesi
+# Hugo ile duzenledigim static web sitesi
