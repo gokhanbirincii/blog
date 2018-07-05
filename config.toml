@@ -1,16 +1,16 @@
 languageCode = "en-us"
-title = "Gokhan Birinci - Software Engineering Student"
+title = "Gokhan Birinci - Software Engineer"
 baseurl = "/"
 theme = "aerial"
 publishdir="public"
 
 [params]
   name = "Gökhan Birinci"
-  about = "Software Engineering Student &nbsp;&bull;&nbsp; Software Developer @KodGemisi"
+  about = "Java Software Developer &#64;KodGemisi"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-  favicon = "favicon.ico"
+  bg_scroll = "off"
+  favicon = "gico.png"
 
 [[params.social]]
   medium = "Twitter"
