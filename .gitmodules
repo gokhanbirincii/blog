@@ -1,0 +1,3 @@
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/gokhanbirincii/gokhanbirincii.github.io.git
