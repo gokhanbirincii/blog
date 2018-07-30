@@ -7,7 +7,7 @@ publishdir="public"
 [params]
   name = "Gökhan Birinci"
   about = "Java Software Developer &#64;KodGemisi"
-  copyright = "Untitled"
+  copyright = "Gokhan Birinci 2017"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "off"
   favicon = "gico.png"
