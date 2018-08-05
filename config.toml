@@ -10,7 +10,7 @@ publishdir="public"
   copyright = "Gokhan Birinci 2017"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "off"
-  favicon = "/css/images/gico.png"
+  favicon = "/css/images/gbirinci.png"
 
 [[params.social]]
   medium = "Twitter"
