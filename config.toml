@@ -6,7 +6,7 @@ publishdir="public"
 
 [params]
   name = "Gökhan Birinci"
-  about = "Java Software Developer &#64;KodGemisi"
+  about = "I am the person who is passionate about Software Development, and I am developing web applications with mostly Java technologies. Currently, I am employeed as a Full Stack Software Engineer and I am trying to build fancy stuff with React."
   copyright = "Gokhan Birinci 2017"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "off"
@@ -35,4 +35,4 @@ publishdir="public"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "mailto:gokhanbirincii@gmail.com"
+  link = "mailto:me@gokhanbirinci.com"
